@@ -1,4 +1,4 @@
-# simplon-brief-5
+# Brief 5 : DNS, TLS et plus si affinité
 ## Chapitre 1
 
 J'utilise Infomaniak comme fournisseur de nom de domaine, j'accède à mon Dashboard sur leur site puis je me rends dans le menu dédié au nom de domaine que j'utilise pour ce brief.
